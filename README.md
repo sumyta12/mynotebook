@@ -19,9 +19,9 @@
        <li>deffer is after finishing the work of the code excution then the data come then data work happen </li>
 </p>     
 
-<h5>off topic releted to javascript</h5>
+<p>off topic releted to javascript</p>
 <ul>
-       <ol>this key word</ol></br>
+       <li>this key word</li></br>
        <p>this depend on the where you try to use it depend on that case its work differently in funtion and arrow function</p>
 </ul>
 <p>
