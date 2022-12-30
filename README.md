@@ -1,2 +1,2 @@
 # mynotebook
-this is my notebook
+some code for my use 
