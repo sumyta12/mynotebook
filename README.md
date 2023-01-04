@@ -46,7 +46,7 @@
 <p></p>
 
 <dt>jsx</dt>
-    <blockquote>
+
     
         <p>It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉
               <li>
