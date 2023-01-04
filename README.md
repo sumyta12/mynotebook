@@ -14,7 +14,7 @@
        <li>lastly react will show only one object</li>
 </ul>       
 
-<p>async and deffer has different thing 
+<p>async and deffer has different thing ❓
        <li>async is work parallay work with the code excution </li>
        <li>deffer is after finishing the work of the code excution then the data come then data work happen </li>
 </p>     
@@ -25,7 +25,7 @@
        <p>this depend on the where you try to use it depend on that case its work differently in funtion and arrow function</p>
 </ul>
 <p>
-    <h4>   funtion and object how it work <br/> </h4>
+    <h4>   funtion and object how it work ❓ <br/> </h4>
        <small>
        you basically call function in normal way like function run(){} when we call that just write it run() but we can call it three differet way call() , apply()        , bind()
        </small>       
