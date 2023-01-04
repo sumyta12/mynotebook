@@ -42,8 +42,8 @@
 <figure>
     <blockquote >
        jsx
-
-  It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉
+       It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉
+           <li>z</li>    
     </blockquote>
   <figcaption>
 
