@@ -41,9 +41,19 @@
 
 <figure>
     <blockquote >
-       jsx
+           <h1>jsx : React dosn't need jsx but for visiual aid jsx come</h1>
        It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉
-           <li>z</li>    
+           <li>Basic js don't know about html but jsx you feel that</li>  
+           <li>reduce coupling</li>
+           <li>one concept is what exact point you are update</li>
+           <li>use component for separate our concern(this is resuable)(it also make it like unit)</li>
+           <li>easy for designer thought it is readble formet</li>
+           <li>
+                  you can never inject anything in the application
+                  <h4>xss(corss site scriptig) https://reactjs.org/docs/cross-origin-errors.html </h4>
+                  because everything is converted in string
+            </li>
+            
     </blockquote>
   <figcaption>
 
