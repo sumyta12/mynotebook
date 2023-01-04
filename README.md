@@ -44,9 +44,12 @@
        
 <h1>script</h1>
 
-<dt>jsx
-It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉 templating langugae    
-</dt>      
+<del>
+       jsx
+
+ <p> It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉</p>
+</del>
+   
            
        
    
