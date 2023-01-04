@@ -39,12 +39,13 @@
        
 <h1>script</h1>
 
-<dt>
+<figure>
+    <blockquote cite="https://www.huxley.net/bnw/four.html">
        jsx
-<ol>
+
   It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉
-</ol>
-</dt>
+    </blockquote>
+    <figcaption>
 
 
    
