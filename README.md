@@ -25,7 +25,7 @@
        <p>this depend on the where you try to use it depend on that case its work differently in funtion and arrow function</p>
 </ul>
 <p>
-       funtion and object how it work <br/>
+    <h4>   funtion and object how it work <br/> </h4>
        <small>
        you basically call function in normal way like function run(){} when we call that just write it run() but we can call it three differet way call() , apply()        , bind()
        </small>       
