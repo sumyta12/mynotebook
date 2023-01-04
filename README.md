@@ -44,11 +44,11 @@
        
 <h1>script</h1>
 
-<del>
+<dt>
        jsx
 
- <p> It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉</p>
-</del>
+ <dd> It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉</dd>
+</dt>
    
            
        
