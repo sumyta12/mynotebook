@@ -32,12 +32,7 @@
        
   <ol>
          /*--**here comes memory heap */
-         
-         
-         
-         
-         
-         here is a url for that
+          here is a url for that
          <a>https://www.youtube.com/watch?v=uwV0hotRrLw</a>     
   </ol>
 <p>
@@ -47,8 +42,10 @@
 <dt>
        jsx
 
- <dd> It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉</dd>
+  It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉
 </dt>
+
+
    
            
        
