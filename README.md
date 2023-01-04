@@ -54,7 +54,7 @@
                   because everything is converted in string
             </li>
             
-    </blockquote>
+  
   <figcaption>
 
 
