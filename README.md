@@ -43,16 +43,12 @@
 <p>
        
 <h1>script</h1>
-<p></p>
 
-<dt>jsx</dt>
-
-    
-        <p>It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉
-              <li>
-                 templating langugae    
-              </li>
-         </p> 
+<dt>jsx
+It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉 templating langugae    
+</dt>      
+           
+       
    
 
 
