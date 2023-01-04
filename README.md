@@ -40,12 +40,12 @@
 <h1>script</h1>
 
 <figure>
-    <blockquote cite="https://www.huxley.net/bnw/four.html">
+    <blockquote >
        jsx
 
   It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉
     </blockquote>
-    <figcaption>
+  <figcaption>
 
 
    
