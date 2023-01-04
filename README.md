@@ -30,11 +30,11 @@
        you basically call function in normal way like function run(){} when we call that just write it run() but we can call it three differet way call() , apply()        , bind()
        </small>       
        
-  <i>
+  <ol>
          here comes memory heap 
          here is a url for that
          <a>https://www.youtube.com/watch?v=uwV0hotRrLw</a>     
-  </i>
+  </ol>
 <p>
        
               
