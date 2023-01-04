@@ -31,13 +31,24 @@
        </small>       
        
   <ol>
-         here comes memory heap 
+         //here comes memory heap 
+         
+         
+         
+         
+         
          here is a url for that
          <a>https://www.youtube.com/watch?v=uwV0hotRrLw</a>     
   </ol>
 <p>
        
-              
+<h1>script</h1>
+<p></p>
+
+<h3>jsx</h3>
+    <blockquote cite="https://reactjs.org/docs/introducing-jsx.html">
+        <p>Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.</p>
+    </blockquote>
 
 
 
