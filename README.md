@@ -41,8 +41,9 @@
 
 <dt>
        jsx
-
+<ol>
   It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉
+</ol>
 </dt>
 
 
