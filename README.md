@@ -47,12 +47,12 @@
 
 <dt>jsx</dt>
     <blockquote cite="https://reactjs.org/docs/introducing-jsx.html">
-       <del>
+    
         <p>It is a syntax extension to (looklike)javascript  -- html inside in javascript 😉</p>
               <li>
                  templating langugae    
               </li>
-        </del>      
+           
     </blockquote>
 
 
