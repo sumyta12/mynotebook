@@ -1,0 +1,322 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
+const nav = {
+  display: "flex",
+  justifyContent: "space-between",
+  nthChild: {
+    display: "flex",
+    listStyle: "none",
+  },
+};
+const Navigation = () => {
+  return (
+    <div style={nav}>
+      <img
+        src="https://1000logos.net/wp-content/uploads/2021/05/Swiggy-logo.png"
+        width="100px"
+      />
+
+      <ul style={nav.nthChild}>
+        <li>Search</li>
+        <li>Offer</li>
+        <li>Cart</li>
+      </ul>
+    </div>
+  );
+};
+const foodlist = {
+  cards: [
+    {
+      type: "restaurant",
+      data: {
+        type: "F",
+        id: "471012",
+        name: "Garden Cress - Ramada Dehradun",
+        uuid: "f8e755b2-78ae-489b-bd8f-3398a5efb684",
+        city: "22",
+        area: "Ballupur",
+        totalRatingsString: "20+ ratings",
+        cloudinaryImageId: "zkxnwarrdji0jgapbech",
+        cuisines: ["Indian", "Chinese"],
+        tags: [],
+        costForTwo: 120000,
+        costForTwoString: "₹1200 FOR TWO",
+        deliveryTime: 44,
+        minDeliveryTime: 40,
+        maxDeliveryTime: 50,
+        slaString: "40-50 MINS",
+        lastMileTravel: 3,
+        slugs: {
+          restaurant: "garden-cress---ramada-dehradun-ballupur-ballupur",
+          city: "dehradun",
+        },
+        cityState: "22",
+        address:
+          "MAHENDRA VIHAR, CHAKRATA ROAD, DEHRADUN, DEHRADUN NAGAR NIGAM, DEHRADUN, UTTARAKHAND",
+        locality: "Ballupur",
+        parentId: 282970,
+        unserviceable: false,
+        veg: false,
+        select: false,
+        favorite: false,
+        tradeCampaignHeaders: [],
+        aggregatedDiscountInfo: {
+          header: "50% off",
+          shortDescriptionList: [
+            {
+              meta: "50% off | Use WELCOME50",
+              discountType: "Percentage",
+              operationType: "RESTAURANT",
+            },
+          ],
+          descriptionList: [
+            {
+              meta: "50% off up to ₹100 | Use code WELCOME50",
+              discountType: "Percentage",
+              operationType: "RESTAURANT",
+            },
+          ],
+          subHeader: "",
+          headerType: 0,
+          superFreedel: "",
+        },
+        aggregatedDiscountInfoV2: {
+          header: "50% OFF",
+          shortDescriptionList: [
+            {
+              meta: "Use WELCOME50",
+              discountType: "Percentage",
+              operationType: "RESTAURANT",
+            },
+          ],
+          descriptionList: [
+            {
+              meta: "50% off up to ₹100 | Use code WELCOME50",
+              discountType: "Percentage",
+              operationType: "RESTAURANT",
+            },
+          ],
+          subHeader: "",
+          headerType: 0,
+          superFreedel: "",
+        },
+        chain: [],
+        feeDetails: {
+          fees: [],
+          totalFees: 0,
+          message: "",
+          title: "",
+          amount: "",
+          icon: "",
+        },
+        availability: {
+          opened: true,
+          nextOpenMessage: "",
+          nextCloseMessage: "",
+        },
+        longDistanceEnabled: 0,
+        rainMode: "NONE",
+        thirdPartyAddress: false,
+        thirdPartyVendor: "",
+        adTrackingID: "",
+        badges: {
+          imageBased: [],
+          textBased: [],
+          textExtendedBadges: [],
+        },
+        lastMileTravelString: "3 kms",
+        hasSurge: false,
+        sla: {
+          restaurantId: "471012",
+          deliveryTime: 44,
+          minDeliveryTime: 40,
+          maxDeliveryTime: 50,
+          lastMileTravel: 3,
+          lastMileDistance: 0,
+          serviceability: "SERVICEABLE",
+          rainMode: "NONE",
+          longDistance: "NOT_LONG_DISTANCE",
+          preferentialService: false,
+          iconType: "EMPTY",
+        },
+        promoted: false,
+        avgRating: "3.7",
+        totalRatings: 20,
+        new: false,
+      },
+      subtype: "basic",
+      scrubber: {
+        value: "₹1200 FOR TWO",
+      },
+    },
+    {
+      type: "restaurant",
+      data: {
+        type: "F",
+        id: "408193",
+        name: "Le Amritam Dine & Mime",
+        uuid: "04817c07-e8ed-4057-8dad-d92668189a35",
+        city: "22",
+        area: "Patel Nagar",
+        totalRatingsString: "Too Few Ratings",
+        cloudinaryImageId: "taro6ninxoe2svpcy9ou",
+        cuisines: ["Chinese", "Indian"],
+        tags: [],
+        costForTwo: 120000,
+        costForTwoString: "₹1200 FOR TWO",
+        deliveryTime: 34,
+        minDeliveryTime: 34,
+        maxDeliveryTime: 34,
+        slaString: "34 MINS",
+        lastMileTravel: 1.399999976158142,
+        slugs: {
+          restaurant: "dine-and-mime-patel-nagar-patel-nagar",
+          city: "dehradun",
+        },
+        cityState: "22",
+        address:
+          "Siddhartha Palace, 56, Saharanpur Rd, Lakkhi Bagh, Dehradun, Uttarakhand 248001, India",
+        locality: "Patel Nagar",
+        parentId: 315398,
+        unserviceable: false,
+        veg: false,
+        select: false,
+        favorite: false,
+        tradeCampaignHeaders: [],
+        aggregatedDiscountInfo: {
+          header: "50% off",
+          shortDescriptionList: [
+            {
+              meta: "50% off | Use WELCOME50",
+              discountType: "Percentage",
+              operationType: "RESTAURANT",
+            },
+          ],
+          descriptionList: [
+            {
+              meta: "50% off up to ₹100 | Use code WELCOME50",
+              discountType: "Percentage",
+              operationType: "RESTAURANT",
+            },
+          ],
+          subHeader: "",
+          headerType: 0,
+          superFreedel: "",
+        },
+        aggregatedDiscountInfoV2: {
+          header: "50% OFF",
+          shortDescriptionList: [
+            {
+              meta: "Use WELCOME50",
+              discountType: "Percentage",
+              operationType: "RESTAURANT",
+            },
+          ],
+          descriptionList: [
+            {
+              meta: "50% off up to ₹100 | Use code WELCOME50",
+              discountType: "Percentage",
+              operationType: "RESTAURANT",
+            },
+          ],
+          subHeader: "",
+          headerType: 0,
+          superFreedel: "",
+        },
+        chain: [],
+        feeDetails: {
+          fees: [],
+          totalFees: 0,
+          message: "",
+          title: "",
+          amount: "",
+          icon: "",
+        },
+        availability: {
+          opened: true,
+          nextOpenMessage: "",
+          nextCloseMessage: "",
+        },
+        longDistanceEnabled: 0,
+        rainMode: "NONE",
+        thirdPartyAddress: false,
+        thirdPartyVendor: "",
+        adTrackingID: "",
+        badges: {
+          imageBased: [],
+          textBased: [],
+          textExtendedBadges: [],
+        },
+        lastMileTravelString: "1.3 kms",
+        hasSurge: false,
+        sla: {
+          restaurantId: "408193",
+          deliveryTime: 34,
+          minDeliveryTime: 34,
+          maxDeliveryTime: 34,
+          lastMileTravel: 1.399999976158142,
+          lastMileDistance: 0,
+          serviceability: "SERVICEABLE",
+          rainMode: "NONE",
+          longDistance: "NOT_LONG_DISTANCE",
+          preferentialService: false,
+          iconType: "EMPTY",
+        },
+        promoted: false,
+        avgRating: "--",
+        totalRatings: 0,
+        new: false,
+      },
+      subtype: "basic",
+      scrubber: {
+        value: "₹1200 FOR TWO",
+      },
+    },
+  ],
+};
+const Fooditemlist = ({ name, cloudinaryImageId }) => {
+  //const { name , cloudinaryImageId } = props.resturant.data;
+  //console.log(props);
+  return (
+    <div style={{ width: "250px", border: "1px solid black" }}>
+      <img
+        src={
+          "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/" +
+          `${cloudinaryImageId}`
+        }
+        width="100%"
+      ></img>
+      <h1>{name}</h1>
+    </div>
+  );
+};
+
+const Bodyelement = () => {
+  return (
+    <div style={{ display: "flex" }}>
+      {foodlist.cards.map((food) => (
+        <Fooditemlist {...food.data} key={food.data.uuid} />
+      ))}
+      
+    </div>
+  );
+};
+
+const Footer = () => {
+  return <h1>this is footer</h1>;
+};
+const Swiggywebstie = () => {
+  return (
+    <div>
+      <Navigation />
+
+      <Bodyelement />
+
+      <Footer />
+    </div>
+  );
+};
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<Swiggywebstie />);
