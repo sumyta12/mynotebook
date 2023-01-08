@@ -58,7 +58,17 @@
   <figcaption>
 
 
-   
+<figure>
+    <blockquote >
+<h1>Is jsx mandatory for react ? </h1>
+<p>
+no it is not beacuse react has its own way for creating element and for showing up it like to use create root 
+here react element create a object 
+here is the articale <a>https://beta.reactjs.org/reference/react/createElement</a>
+</p>
+<figcaption>   
+
+
            
        
    
