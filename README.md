@@ -69,7 +69,7 @@ here is the articale <a>https://beta.reactjs.org/reference/react/createElement</
 <figcaption>   
 </figure>
 <h1>can we use jsx comment no we cannot use it directly </h1>           
-![code](https://user-images.githubusercontent.com/110283691/211210555-67ab08e4-6fa3-4632-b296-8bcdd1707ab3.png)
+![code] <img src="https://user-images.githubusercontent.com/110283691/211210555-67ab08e4-6fa3-4632-b296-8bcdd1707ab3.png" />
 
    
 
