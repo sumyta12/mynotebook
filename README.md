@@ -60,7 +60,7 @@
 
 <figure>
     <blockquote >
-<h1>Is jsx mandatory for react ? </h1>
+<h1>Is jsx,es6 mandatory for react ? </h1>
 <p>
 no it is not beacuse react has its own way for creating element and for showing up it like to use create root 
 here react element create a object 
@@ -68,9 +68,9 @@ here is the articale <a>https://beta.reactjs.org/reference/react/createElement</
 </p>
 <figcaption>   
 </figure>
-           <h1>hw</h1>
-           
-       
+<h1>can we use jsx comment no we cannot use it directly </h1>           
+![code](https://user-images.githubusercontent.com/110283691/211210555-67ab08e4-6fa3-4632-b296-8bcdd1707ab3.png)
+
    
 
 
