@@ -60,16 +60,28 @@
 
 <figure>
     <blockquote >
-<h1>Is jsx,es6 mandatory for react ? </h1>
+           <h1>Is jsx,es6 mandatory for react ? <a>https://reactjs.org/docs/react-without-jsx.html</a> </h1>
 <p>
 no it is not beacuse react has its own way for creating element and for showing up it like to use create root 
-here react element create a object 
+here react element create a object .
+           <h1>here you can say that then how jsx convert it then comes babel and this babel is interpret it or convert it react (polyfil)feature for different                browser and that is browserlist</h1>
+       
 here is the articale <a>https://beta.reactjs.org/reference/react/createElement</a>
 </p>
 <figcaption>   
 </figure>
 <h1>can we use jsx comment no we cannot use it directly </h1><img src="https://user-images.githubusercontent.com/110283691/211210555-67ab08e4-6fa3-4632-b296-8bcdd1707ab3.png" width="150px" height="70px" />
+   <div>
+   <h1>react virtual dom</h1>
+          <p>react reconcilation
+                 
 
+          </p>   
+          <p>
+          </p>
+   </div>      
+           
+         
    
 
 
