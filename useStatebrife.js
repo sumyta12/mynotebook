@@ -60,3 +60,34 @@ const Example = () => {
   );
 };
 export default Example;
+//use anther file
+import { useState } from "react";
+const  EX2 = () => {
+  //here your user has dummy data
+  const [inputvalue, setinput] = useState("");
+  const [userinfo, setuserinfo] = useState({
+    name: "username",
+    email: "user@example.com",
+    password: "password",
+  });
+  function userinformationupdate() {
+    //here ... is for previous value of userinfo
+    setuserinfo((prev) => ({ ...prev, email: inputvalue }));
+  }
+  return (
+    <div>
+      <input type="text" onChange={(e) => setinput(e.target.value)} />
+      <button onClick={() => userinformationupdate()}> Click here </button>
+      {/** here there is question that
+      mean a optional chaning its just like condtion
+      userinfo ? userinfo.email : undefine
+      it doesn't directly break your code
+     */}
+      <h1>hey : {userinfo?.email}</h1>
+    </div>
+  );
+};
+export default EX2;
+
+///https://www.robinwieruch.de/react-hooks/
+///https://www.youtube.com/watch?v=Fhu5cu864ag&t=2s
