@@ -1,0 +1,7 @@
+1 .here state is more private because it use in component you can imagine it like when you write basic js or c code 
+   outside of the function you can not use local variable state is just like that.
+
+2.porps is just like a placeholder you pass it form outside from the component or you can say props is just like placeholder
+  for other component and you can already assume that we use that placeholder value as aslo value but when we try to update
+  that value inside other component that case we need the state beacuse state is a local variable 
+  
